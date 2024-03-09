@@ -19,11 +19,11 @@
 
 <p align="left">
   <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:solosandoa@gmail.com" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariel-solosando-9212541b6/" alt="LinkedIn"/></a>
   <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511991940955" alt="WhatsApp"/></a>
 </p>
 
 ### Job Experience
@@ -45,7 +45,7 @@ Main Projects: [Basel III Risk Calculator](https://www.bis.org/bcbs/basel3.htm)
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=solosando&theme=synthwavet&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"
+        src="https://github-readme-stats.vercel.app/api?username=solosando&theme=synthwavet&show_icons=true)](https://github.com/solosando/github-readme-stats"
         alt="Github Stats"
       />
     </td>
