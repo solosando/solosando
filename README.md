@@ -26,17 +26,6 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511991940955" alt="WhatsApp"/></a>
 </p>
 
-### Job Experience
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Itaú_Unibanco_logo_2023.svg"/>](https://www.itau.com.br)
-
-**Software Engineering Analyst** \
-[**Itau-Unibanco**](https://www.itau.com.br) • Full-Time \
-Languages & Technologies: `Python`, `SQL`, `AWS Glue`, `PySpark`,\
-Main Projects: [Basel III Risk Calculator](https://www.bis.org/bcbs/basel3.htm)
-<br/>
-<br/>
-
 
 ### ⚙️ GitHub Analytics
 
