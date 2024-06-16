@@ -1,12 +1,11 @@
 ### 🙋‍♀️ Hello, there!
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karinnecristinapereira//)](https://www.linkedin.com/in/karinnecristinapereira/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@KarinneCristina)](https://medium.com/@KarinneCristina)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=karinnecristinapereira@gmail.com)](karinnecristinapereira@gmail.com)
-[![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/karinne)](https://www.kaggle.com/karinne)
-[![Portifolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=white&link=https://karinneristina.glitch.me/)](https://karinneristina.glitch.me/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariel-solosando-9212541b6//)](https://www.linkedin.com/in/ariel-solosando-9212541b6/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=solosandoa@gmail.com)](solosandoa@gmail.com)
+[![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/arisolosando)](https://www.kaggle.com/arisolosando)
 
-I'm Ariel, a dedicated college student passionate about data science, data engineering, and cloud technologies.
-My ultimate goal is to leverage my passion for data and expertise in data engineering and cloud technologies to deep dive into the realm of machine learning. 
+
+I'm Ariel, a dedicated college student passionate about machine learning, data engineering, and cloud technologies.</br>
+Graduating in Data Science at Mackenzie Presbiteryan University, I pursue a strong background in math and statistics and aim to become a Machine Learning Engineer.
 
 ### 🧰 My Toolbox
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -24,12 +23,12 @@ My ultimate goal is to leverage my passion for data and expertise in data engine
  
 
 ### 🏆 Challenges
-<a href="https://github.com/karinnecristina/Data_Science">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=karinnecristina&repo=Data_Science&theme=dark" />
+<a href="https://github.com/solosando/bees-data-engineering-challenge">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=solosando&repo=bees-data-engineering-challenge&theme=dark" />
 </a>
 
-<a href="https://github.com/karinnecristina/Engenharia_de_Dados">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=karinnecristina&repo=Engenharia_de_Dados&theme=dark" />
+<a href="https://github.com/solosando/hackaton-hiperstream-codeclub">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=solosando&repo=hackaton-hiperstream-codeclub&theme=dark" />
 </a>
  
 
