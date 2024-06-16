@@ -1,11 +1,11 @@
-
+### 🙋‍♀️ Hello, there!
  My name os Ariel and I'm a <strong>Machine Learning Engineer</strong>, student in Data Science at Mackenzie Presbiteryan University, with strong background in Data Engineering. My goal is to build AI applications for musical production
 
 ### 🧰 My Toolbox
-
+Python SQL pandas AWS GCP Azure 
 ### 🏆 Challenges
 
-### ⚙️ Projects
+### 👩‍💻 Projects
 
 ### 💌 Reach me and stay connected! ⤵️
 
