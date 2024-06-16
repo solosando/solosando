@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
   Hi, I'm Ariel, a <strong>Data Engineer</strong>.<br>
   Seeking projects to contribute.
 </p>
